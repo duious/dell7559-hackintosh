@@ -1,0 +1,180 @@
+31:208  4:938  Found BIOS RSDP at %p
+31:208  0:000  Printing ACPI tables from RSDP %p ...
+31:208  0:000   %p: 'RSD PTR ³DELL  (', Rev: 1867900727 (Acpi 2.0 or newer), Len: 36
+31:208  0:000    (Xsdt: %p, Rsdt: %p)
+31:208  0:000    %p: 'XSDTÜ', 'XSDT', Rev: 1867900551, Len: 1
+31:208  0:000    %p: 'RSDT€', 'RSDT', Rev: 1867900551, Len: 1
+31:208  0:000    Tables in Xsdt: 23
+31:208  0:000    0. %p: 'FACP', 'FACP', Rev: 1867900551, Len: 5
+31:208  0:000        (Dsdt: 772C0218, Facs: 77AC4F80, XDsdt: 772c0218, XFacs: 0)
+31:208  0:000        %p: 'DSDT*’', 'DSDT', Rev: 1867900407, Len: 2
+31:208  0:000        %p: 'FACS@', Ver: 1867900571, Len: 2
+31:208  0:000    1. %p: 'APIC„', 'APIC', Rev: 1867900551, Len: 3
+31:208  0:000    2. %p: 'FPDTD', 'FPDT', Rev: 1867900551, Len: 1
+31:208  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: 1867900551, Len: 1
+31:208  0:000    4. %p: 'MCFG<', 'MCFG', Rev: 1867900551, Len: 1
+31:208  0:000    5. %p: 'HPET8', 'HPET', Rev: 1867900551, Len: 1
+31:208  0:000    6. %p: 'SSDT', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    7. %p: 'LPIT”', 'LPIT', Rev: 1867900551, Len: 1
+31:208  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    9. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    10. %p: 'SSDTE', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    11. %p: 'DBGP4', 'DBGP', Rev: 1867900551, Len: 1
+31:208  0:000    12. %p: 'DBG2T', 'DBG2', Rev: 1867900551, Len: 0
+31:208  0:000    13. %p: 'SSDTê4', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    14. %p: 'BOOT(', 'BOOT', Rev: 1867900551, Len: 1
+31:208  0:000    15. %p: 'SLICv', 'SLIC', Rev: 1867900551, Len: 1
+31:208  0:000    16. %p: 'SSDT€S', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1867900551, Len: 1
+31:208  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1867900551, Len: 3
+31:208  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    20. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    21. %p: 'DMARÌ', 'DMAR', Rev: 1867900551, Len: 1
+31:208  0:000    22. %p: 'SSDTø', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    Tables in Rsdt: 23
+31:208  0:000    0. %p: 'FACP„', 'FACP', Rev: 1867900551, Len: 2
+31:208  0:000        (Dsdt: 772C0218, Facs: 77AC4F40)
+31:208  0:000        %p: 'DSDT*’', 'DSDT', Rev: 1867900407, Len: 2
+31:208  0:000        %p: 'FACS@', Ver: 1867900571, Len: 0
+31:208  0:000    1. %p: 'APIC„', 'APIC', Rev: 1867900551, Len: 3
+31:208  0:000    2. %p: 'FPDTD', 'FPDT', Rev: 1867900551, Len: 1
+31:208  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: 1867900551, Len: 1
+31:208  0:000    4. %p: 'MCFG<', 'MCFG', Rev: 1867900551, Len: 1
+31:208  0:000    5. %p: 'HPET8', 'HPET', Rev: 1867900551, Len: 1
+31:208  0:000    6. %p: 'SSDT', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    7. %p: 'LPIT”', 'LPIT', Rev: 1867900551, Len: 1
+31:208  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    9. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    10. %p: 'SSDTE', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    11. %p: 'DBGP4', 'DBGP', Rev: 1867900551, Len: 1
+31:208  0:000    12. %p: 'DBG2T', 'DBG2', Rev: 1867900551, Len: 0
+31:208  0:000    13. %p: 'SSDTê4', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    14. %p: 'BOOT(', 'BOOT', Rev: 1867900551, Len: 1
+31:208  0:000    15. %p: 'SLICv', 'SLIC', Rev: 1867900551, Len: 1
+31:208  0:000    16. %p: 'SSDT€S', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1867900551, Len: 1
+31:208  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1867900551, Len: 3
+31:208  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    20. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    21. %p: 'DMARÌ', 'DMAR', Rev: 1867900551, Len: 1
+31:208  0:000    22. %p: 'SSDTø', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000  Found UEFI Acpi 2.0 RSDP at %p
+31:208  0:000  Saving ACPI tables from RSDP %p to å’â„å‘â’ä’³ä±…âŒÈ (çœ¬$ ...
+31:208  0:000   %p: 'RSD PTR ³DELL  (', Rev: 1867900727 (Acpi 2.0 or newer), Len: 36
+31:208  0:000    (Xsdt: %p, Rsdt: %p)
+31:208  0:000    %p: 'XSDTÜ', 'XSDT', Rev: 1867900551, Len: 1
+31:208  0:000    %p: 'RSDT€', 'RSDT', Rev: 1867900551, Len: 1
+31:208  0:000    Tables in Xsdt: 23
+31:208  0:000    0. %p: 'FACP', 'FACP', Rev: 1867900551, Len: 5
+31:208  0:000        (Dsdt: 772C0218, Facs: 77AC4F80, XDsdt: 772c0218, XFacs: 0)
+31:208  0:000        %p: 'DSDT*’', 'DSDT', Rev: 1867900407, Len: 2
+31:208  0:000        %p: 'FACS@', Ver: 1867900571, Len: 2
+31:208  0:000    1. %p: 'APIC„', 'APIC', Rev: 1867900551, Len: 3
+31:208  0:000    2. %p: 'FPDTD', 'FPDT', Rev: 1867900551, Len: 1
+31:208  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: 1867900551, Len: 1
+31:208  0:000    4. %p: 'MCFG<', 'MCFG', Rev: 1867900551, Len: 1
+31:208  0:000    5. %p: 'HPET8', 'HPET', Rev: 1867900551, Len: 1
+31:208  0:000    6. %p: 'SSDT', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    7. %p: 'LPIT”', 'LPIT', Rev: 1867900551, Len: 1
+31:208  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    9. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    10. %p: 'SSDTE', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    11. %p: 'DBGP4', 'DBGP', Rev: 1867900551, Len: 1
+31:208  0:000    12. %p: 'DBG2T', 'DBG2', Rev: 1867900551, Len: 0
+31:208  0:000    13. %p: 'SSDTê4', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    14. %p: 'BOOT(', 'BOOT', Rev: 1867900551, Len: 1
+31:208  0:000    15. %p: 'SLICv', 'SLIC', Rev: 1867900551, Len: 1
+31:208  0:000    16. %p: 'SSDT€S', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1867900551, Len: 1
+31:208  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1867900551, Len: 3
+31:208  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    20. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    21. %p: 'DMARÌ', 'DMAR', Rev: 1867900551, Len: 1
+31:208  0:000    22. %p: 'SSDTø', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    Tables in Rsdt: 23
+31:208  0:000    0. %p: 'FACP„', 'FACP', Rev: 1867900551, Len: 2
+31:208  0:000        (Dsdt: 772C0218, Facs: 77AC4F40)
+31:208  0:000        %p: 'DSDT*’', 'DSDT', Rev: 1867900407, Len: 2
+31:208  0:000        %p: 'FACS@', Ver: 1867900571, Len: 0
+31:208  0:000    1. %p: 'APIC„', 'APIC', Rev: 1867900551, Len: 3
+31:208  0:000    2. %p: 'FPDTD', 'FPDT', Rev: 1867900551, Len: 1
+31:208  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: 1867900551, Len: 1
+31:208  0:000    4. %p: 'MCFG<', 'MCFG', Rev: 1867900551, Len: 1
+31:208  0:000    5. %p: 'HPET8', 'HPET', Rev: 1867900551, Len: 1
+31:208  0:000    6. %p: 'SSDT', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    7. %p: 'LPIT”', 'LPIT', Rev: 1867900551, Len: 1
+31:208  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    9. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    10. %p: 'SSDTE', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    11. %p: 'DBGP4', 'DBGP', Rev: 1867900551, Len: 1
+31:208  0:000    12. %p: 'DBG2T', 'DBG2', Rev: 1867900551, Len: 0
+31:208  0:000    13. %p: 'SSDTê4', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    14. %p: 'BOOT(', 'BOOT', Rev: 1867900551, Len: 1
+31:208  0:000    15. %p: 'SLICv', 'SLIC', Rev: 1867900551, Len: 1
+31:208  0:000    16. %p: 'SSDT€S', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1867900551, Len: 1
+31:208  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1867900551, Len: 3
+31:208  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    20. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    21. %p: 'DMARÌ', 'DMAR', Rev: 1867900551, Len: 1
+31:208  0:000    22. %p: 'SSDTø', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000  Found UEFI Acpi 1.0 RSDP at %p
+31:208  0:000  Printing ACPI tables from RSDP %p ...
+31:208  0:000   %p: 'RSD PTR ³DELL  (', Rev: 1867900727 (Acpi 2.0 or newer), Len: 36
+31:208  0:000    (Xsdt: %p, Rsdt: %p)
+31:208  0:000    %p: 'XSDTÜ', 'XSDT', Rev: 1867900551, Len: 1
+31:208  0:000    %p: 'RSDT€', 'RSDT', Rev: 1867900551, Len: 1
+31:208  0:000    Tables in Xsdt: 23
+31:208  0:000    0. %p: 'FACP', 'FACP', Rev: 1867900551, Len: 5
+31:208  0:000        (Dsdt: 772C0218, Facs: 77AC4F80, XDsdt: 772c0218, XFacs: 0)
+31:208  0:000        %p: 'DSDT*’', 'DSDT', Rev: 1867900407, Len: 2
+31:208  0:000        %p: 'FACS@', Ver: 1867900571, Len: 2
+31:208  0:000    1. %p: 'APIC„', 'APIC', Rev: 1867900551, Len: 3
+31:208  0:000    2. %p: 'FPDTD', 'FPDT', Rev: 1867900551, Len: 1
+31:208  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: 1867900551, Len: 1
+31:208  0:000    4. %p: 'MCFG<', 'MCFG', Rev: 1867900551, Len: 1
+31:208  0:000    5. %p: 'HPET8', 'HPET', Rev: 1867900551, Len: 1
+31:208  0:000    6. %p: 'SSDT', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    7. %p: 'LPIT”', 'LPIT', Rev: 1867900551, Len: 1
+31:208  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    9. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    10. %p: 'SSDTE', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    11. %p: 'DBGP4', 'DBGP', Rev: 1867900551, Len: 1
+31:208  0:000    12. %p: 'DBG2T', 'DBG2', Rev: 1867900551, Len: 0
+31:208  0:000    13. %p: 'SSDTê4', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    14. %p: 'BOOT(', 'BOOT', Rev: 1867900551, Len: 1
+31:208  0:000    15. %p: 'SLICv', 'SLIC', Rev: 1867900551, Len: 1
+31:208  0:000    16. %p: 'SSDT€S', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1867900551, Len: 1
+31:208  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1867900551, Len: 3
+31:208  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    20. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    21. %p: 'DMARÌ', 'DMAR', Rev: 1867900551, Len: 1
+31:208  0:000    22. %p: 'SSDTø', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    Tables in Rsdt: 23
+31:208  0:000    0. %p: 'FACP„', 'FACP', Rev: 1867900551, Len: 2
+31:208  0:000        (Dsdt: 772C0218, Facs: 77AC4F40)
+31:208  0:000        %p: 'DSDT*’', 'DSDT', Rev: 1867900407, Len: 2
+31:208  0:000        %p: 'FACS@', Ver: 1867900571, Len: 0
+31:208  0:000    1. %p: 'APIC„', 'APIC', Rev: 1867900551, Len: 3
+31:208  0:000    2. %p: 'FPDTD', 'FPDT', Rev: 1867900551, Len: 1
+31:208  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: 1867900551, Len: 1
+31:208  0:000    4. %p: 'MCFG<', 'MCFG', Rev: 1867900551, Len: 1
+31:208  0:000    5. %p: 'HPET8', 'HPET', Rev: 1867900551, Len: 1
+31:208  0:000    6. %p: 'SSDT', 'SSDT', Rev: 1867900551, Len: 1
+31:208  0:000    7. %p: 'LPIT”', 'LPIT', Rev: 1867900551, Len: 1
+31:208  0:000    8. %p: 'SSDTH', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    9. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    10. %p: 'SSDTE', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    11. %p: 'DBGP4', 'DBGP', Rev: 1867900551, Len: 1
+31:208  0:000    12. %p: 'DBG2T', 'DBG2', Rev: 1867900551, Len: 0
+31:208  0:000    13. %p: 'SSDTê4', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    14. %p: 'BOOT(', 'BOOT', Rev: 1867900551, Len: 1
+31:208  0:000    15. %p: 'SLICv', 'SLIC', Rev: 1867900551, Len: 1
+31:208  0:000    16. %p: 'SSDT€S', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1867900551, Len: 1
+31:208  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1867900551, Len: 3
+31:208  0:000    19. %p: 'SSDTX', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    20. %p: 'SSDTÑ', 'SSDT', Rev: 1867900551, Len: 2
+31:208  0:000    21. %p: 'DMARÌ', 'DMAR', Rev: 1867900551, Len: 1
+31:208  0:000    22. %p: 'SSDTø', 'SSDT', Rev: 1867900551, Len: 1

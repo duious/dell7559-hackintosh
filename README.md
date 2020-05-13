@@ -1,6 +1,6 @@
 # 2020.05.13
 
-# 设备信息：
+## 设备信息：
                                       duious MBP MacBookPro13,2
                                       ==============================================================
                                       主板型号 : Inspiron 7559 with board 0H87XC
@@ -19,14 +19,14 @@
          ####     #####               主显示器 : 1920 x 1080 (1080p FHD - Full High Definition)
                                       扩展显示 :
 
-# 网卡信息：
+## 网卡信息：
 DW1820A：
 	"compatible"=<"pci14e4,4353","ARPT">
 	Card Type: AirPort Extreme  (0x14E4, 0x23)
 	MAC Address: xx:xx:xx:xx:xx:xx
 	com.apple.driver.AirPort.Brcm4360(1400.1.1)
 	"IO80211CountryCode"="#a"
-# 蓝牙信息：
+## 蓝牙信息：
 BCM2045A0:
 	"FirmwareVersionString"="v7c4689"
 	"FirmwareVersionString"="v7c4689"
